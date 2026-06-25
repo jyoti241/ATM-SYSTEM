@@ -78,7 +78,7 @@ Before running the project, ensure you have:
 ### Clone the Repository
 
 
-git clone https://github.com/jyoti24/ATM-System.git
+git clone https://github.com/jyoti24/ATM-SYSTEM
 
 
 ### Open the Project
